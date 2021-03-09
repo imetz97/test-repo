@@ -2,6 +2,6 @@
 
 Practicing github commands!
 
-## Commands
+## Local Development
 
-Clone- git clone *use ssh link*
+1. Open index.html in your browser.
